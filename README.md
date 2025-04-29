@@ -41,7 +41,7 @@ Para que o sensor DHT22 funcione corretamente com o ESP32-C3, siga o esquema de 
 
 ### 🖼️ Esquema visual:
 
-![Esquema de ligação do DHT22 com ESP32-C3](img\esquema_sensor_e_esp32.png)
+![Esquema de ligação do DHT22 com ESP32-C3](img/diagram_esp32-c3.png)
 
 > 💡 *Imagem baseada no modelo DHT22 sem placa integrada. Se o seu sensor for “cru”, conecte o resistor de 10kΩ manualmente.*
 
