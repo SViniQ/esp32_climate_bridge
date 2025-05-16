@@ -60,7 +60,7 @@ Para que o sensor DHT22 funcione corretamente com o ESP32-C3, siga o esquema de 
 
 1. Faça o upload do código via Arduino IDE
 2. Instale a biblioteca `DHT sensor library` (by Adafruit)
-3. Verifique o monitor serial (115200 baud)
+3. Verifique o monitor serial (9600 baud)
 4. Integre com Home Assistant (MQTT ou REST)
 
 ---
