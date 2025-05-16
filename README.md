@@ -135,7 +135,7 @@ It is mandatory to use a **10kΩ resistor between the VCC pin and the DATA pin**
 
 1. Upload the code via Arduino IDE
 2. Install the `DHT sensor library` (by Adafruit)
-3. Check the serial monitor (115200 baud)
+3. Check the serial monitor (9600 baud)
 4. Integrate with Home Assistant (MQTT or REST)
 
 ---
